@@ -10,5 +10,10 @@
 
 // read from notes.js
 const getNotes = require('./notes.js');
+
+const validator = require('validator');
+console.log(validator.isEmail('tamermaarouf@gmail.com'));
+
+
 const msg = getNotes();
 console.log(msg);
