@@ -1,4 +1,4 @@
 console.log('utils.js');
-// const name = 'tamer';
-// module.exports = name;
+const name = 'tamer';
+module.exports = name;
 
