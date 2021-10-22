@@ -1,0 +1,19 @@
+{
+  "name": "node-course",
+  "version": "1.0.0",
+  "description": "this repo is  udemy course and udacity course The-Complete-Node.js-Developer-Course-3rd-Edition- author Andrew",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamermaarouf/Node-Course.git"
+  },
+  "author": "tamer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamermaarouf/Node-Course/issues"
+  },
+  "homepage": "https://github.com/tamermaarouf/Node-Course#readme"
+}
