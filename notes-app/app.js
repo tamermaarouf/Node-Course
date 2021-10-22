@@ -3,7 +3,12 @@
 
 // fs.appendFileSync('notes.txt', 'test to append File');
 
-//import your own file
+//import from notes.txt own file
 
-const notes = require('./utils.js');
-console.log(notes);
+// const firstName = require('./utils.js');
+// console.log(firstName);
+
+// read from notes.js
+const getNotes = require('./notes.js');
+const msg = getNotes();
+console.log(msg);
