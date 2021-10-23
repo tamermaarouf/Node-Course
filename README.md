@@ -4,3 +4,4 @@ The-Complete-Node.js-Developer-Course-3rd-Edition-
 author Andrew
 
 The Complete Node.js Developer Course (3rd Edition), published by tamer
+you need to install npm i <package-name>
